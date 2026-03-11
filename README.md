@@ -1,9 +1,9 @@
 # TradeCircle Backend
 
-** Other Repositories
-Main Repository: https://github.com/dylanlewis12/TradeCircle-Platform 
-Frontend Repository: https://github.com/dylanlewis12/TradeCircle-Frontend 
-BackendRepository: https://github.com/dylanlewis12/TradeCircle-Backend
+## Other Repositories
+Main Repository: https://github.com/dylanlewis12/TradeCircle-Platform <br />
+Frontend Repository: https://github.com/dylanlewis12/TradeCircle-Frontend <br />
+BackendRepository: https://github.com/dylanlewis12/TradeCircle-Backend <br />
 
 Node.js + Express API for the TradeCircle skill-sharing platform.
 
